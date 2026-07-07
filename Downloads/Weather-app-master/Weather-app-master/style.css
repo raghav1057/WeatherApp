@@ -5,9 +5,9 @@ body {
   height: 100vh;
   margin: 0;
   font-family: "Zen Kaku Gothic Antique", sans-serif;
-  background: #222;
+  background-color: #1a1a1a;
+  background-image: linear-gradient(160deg, #222222 0%, #1a1a1a 55%, #121212 100%);
   font-size: 110%;
-  background-image: url("https://source.unsplash.com/1600x900/?landscape");
 }
 
 .card {
